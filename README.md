@@ -45,6 +45,8 @@ El objetivo no es atacar sistemas reales, sino comprender las técnicas, herrami
   * https://www.startupdefense.io/es-us/blog/what-is-dwell-time-for-cybersecurity-e
   * https://www.zonamovilidad.es/las-empresas-tardan-13-horas-de-media-en-detectar-una-amenaza.html
   * https://www.itdigitalsecurity.es/endpoint/2021/09/hora-y-media-es-el-tiempo-que-tarda-un-ciberdelincuente-en-conseguir-su-objetivo
+  * https://www.kaspersky.es/about/press-releases/nuevo-troyano-de-acceso-remoto-ataca-a-traves-de-skype
+
 
 
 
